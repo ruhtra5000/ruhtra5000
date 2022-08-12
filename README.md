@@ -1,4 +1,4 @@
-- Helo, I’m @ruhtra5000
+- Helo, I’m Arthur
 - I’m interested in learn a little about everything
 - I’m currently learning C++
 - I have some experience with Java, JavaScript, HTML, CSS

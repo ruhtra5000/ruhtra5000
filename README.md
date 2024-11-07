@@ -1,7 +1,7 @@
 - Hi, I’m Arthur
 - I’m interested in learn a little about everything
-- I’m currently learning C++
-- I have some experience with Java, JavaScript, HTML, CSS
+- College: Computer Science
+- I have some experience with C, C++, Python, Java, JavaScript, HTML, CSS
 - How to reach me: 
   Email: arthursa147@gmail.com
   Discord: V2#9227 (may change in the future)

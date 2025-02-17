@@ -4,7 +4,6 @@
 - I have some experience with C, C++, Python, Java, JavaScript, HTML, CSS
 - How to reach me: 
   Email: arthursa147@gmail.com
-  Discord: V2#9227 (may change in the future)
 
 <!---
 ruhtra5000/ruhtra5000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
